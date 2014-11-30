@@ -1,4 +1,5 @@
 <?php get_header(); ?>
+<?php _e( 'Miu miu', '' ) ?>
 <?php get_template_part( 'blog-banner' ); ?>
  <!-- START OF ARTICLE AREA -->
     <article id="main-blog" class="blog-area">
